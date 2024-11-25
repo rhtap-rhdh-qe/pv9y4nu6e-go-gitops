@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pv9y4nu6e-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/pv9y4nu6e-go
